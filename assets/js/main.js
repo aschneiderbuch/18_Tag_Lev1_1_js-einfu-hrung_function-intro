@@ -1,0 +1,1 @@
+console.log("hat JS html link verknüpfung geklappt -> Browser + F12")
